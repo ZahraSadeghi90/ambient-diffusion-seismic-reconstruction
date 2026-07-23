@@ -6,7 +6,7 @@ import numpy as np
 
 
 DATA_ROOT = Path("/home/zahras90/scratch/ambient/data/segc3")
-RAW_ROOT = DATA_ROOT 
+RAW_ROOT = DATA_ROOT
 
 RAW_FILES = [
     RAW_ROOT / "SEG_45Shot_shots1-9.sgy",
